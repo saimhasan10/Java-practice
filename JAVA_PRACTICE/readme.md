@@ -1,4 +1,4 @@
-## Folder naming convention
+# Folder naming convention
 
 
 ### SECRET SEED:  Contains  the basics of Java
